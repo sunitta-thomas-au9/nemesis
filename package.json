@@ -19,7 +19,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "client": "file:view/client",
     "bcryptjs": "^2.4.3",
     "concurrently": "^6.1.0",
     "cors": "^2.8.5",
